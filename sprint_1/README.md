@@ -29,10 +29,10 @@ Janeiro de 2023, foi o mês que me mudei de estado. Minha mãe se tranferiu para
 Tenho um história nas artes-marciais, quando criança fazia karate, ganhei uma série de campeonatos e meti muita porrada por aí. Aos 15 entrei para o kung-fu onde passei mais de 4 anos, cheguei a feixa marrom, mas infelizmente tive que para pela mudança, e cá entre nós, meu joelho já tava pedindo arrego.
 Atualmente sou apenas uma basqueteira que vai na acadêmia pra evitar lesões.
 
-<center>
+<div>
 <img alt ="Zuko" src="https://i.pinimg.com/originals/00/a6/b7/00a6b7e320f69ab5243d5c4b641ee3f1.gif">
 curiosidade: Os movimentos das dobras em avatar(Meu desenho favorito) são inpiradas em estilos de Kung-fu.
-</center>
+</div>
 
 <div align="center">
 <img alt="paige buecker" src="https://github.com/CarolineVitoria/img/blob/main/paige-bueckers-uconn.gif?raw=true">
