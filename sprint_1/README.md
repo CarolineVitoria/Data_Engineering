@@ -37,6 +37,6 @@ Atualmente sou apenas uma basqueteira que vai na acadêmia pra evitar lesões.
 <div align="center">
 <img alt="paige buecker" src="https://github.com/CarolineVitoria/img/blob/main/paige-bueckers-uconn.gif?raw=true">
 </div>
-curiosidade 1: Os movimentos das dobras em avatar(Meu desenho favorito) são inpiradas em estilos do Kung-fu.
+curiosidade 1: Os movimentos das dobras em avatar(Meu desenho favorito) são inspiradas em estilos do Kung-fu.
 <br>
 curiosidade 2: Essa é a Paige Bueckers, a melhor da WNBA, também conhecida como minha inspiração :smile_cat:
