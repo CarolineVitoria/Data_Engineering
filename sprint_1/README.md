@@ -31,8 +31,9 @@ Atualmente sou apenas uma basqueteira que vai na acadêmia pra evitar lesões.
 
 <div align="center">
 <img alt ="Zuko" src="https://i.pinimg.com/originals/00/a6/b7/00a6b7e320f69ab5243d5c4b641ee3f1.gif">
-curiosidade: Os movimentos das dobras em avatar(Meu desenho favorito) são inpiradas em estilos de Kung-fu.
 </div>
+<br>
+curiosidade: Os movimentos das dobras em avatar(Meu desenho favorito) são inpiradas em estilos de Kung-fu.
 
 <div align="center">
 <img alt="paige buecker" src="https://github.com/CarolineVitoria/img/blob/main/paige-bueckers-uconn.gif?raw=true">
