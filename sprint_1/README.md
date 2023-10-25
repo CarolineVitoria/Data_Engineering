@@ -37,5 +37,5 @@ curiosidade: Os movimentos das dobras em avatar(Meu desenho favorito) são inpir
 
 <div align="center">
 <img alt="paige buecker" src="https://github.com/CarolineVitoria/img/blob/main/paige-bueckers-uconn.gif?raw=true">
-curiosidade: A melhor
 </div>
+curiosidade: A melhor
