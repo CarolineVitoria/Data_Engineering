@@ -1,4 +1,4 @@
-# Olá, eu sou a Vitótia :dizzy:
+# Olá, eu sou a Vitória :dizzy:
 
 Na verdade meu nome é Caroline Vitória, alguns me chamam de carol, outros de Vitória, mas vou contar um segredo, prefiro Vitória. Tá, tá, isso não é um segredo, mas em minha defesa, você acabou de me conhecer, então vamos deixar os segredos e fofocas para o futuro.
 <hr>
@@ -34,9 +34,10 @@ curiosidade 1: Os movimentos das dobras em avatar(Meu desenho favorito) são ins
 <br>
 curiosidade 2: Essa é a Paige Bueckers, a melhor da WNBA, também conhecida como minha inspiração :smile_cat:
 
-============================================================================================
+<hr>
 
 # Estudo de cada sprint
-[## Sprint 1](sprint_1)
+## Sprint 1
 Aqui foi aprendido GIT, GitHub e LINUX.
-Repositório exclusivo com resumo do curso de Git e GitHub: [repoGit](../curso_git_github/)
+Diretório onde contém o resumo e os exercícios: [Sprint-1](sprint_1)
+Repositório exclusivo onde contém anotações sobre o curso de Git e GitHub: [repoGit](https://github.com/CarolineVitoria/Git_Github/tree/main)

@@ -5,7 +5,7 @@ O Git é um software extremamente essencial na área de desenvolvimento, pois el
 O Linux é o kernel de todas as distribuições GNU/linux. Saber utilizar Sistemas operacionais linux é muito recomendado para profissionais de TI, pois eles são usados na maioria dos servidores e também por grandes empresas como Amazon e Heroku.
 
 ============================================================================================
-# Olá, eu sou a Vitótia :dizzy:
+# Olá, eu sou a Vitória :dizzy:
 
 Na verdade meu nome é Caroline Vitória, alguns me chamam de carol, outros de Vitória, mas vou contar um segredo, prefiro Vitória. Tá, tá, isso não é um segredo, mas em minha defesa, você acabou de me conhecer, então vamos deixar os segredos e fofocas para o futuro.
 <hr>
