@@ -39,5 +39,6 @@ curiosidade 2: Essa é a Paige Bueckers, a melhor da WNBA, também conhecida com
 # Estudo de cada sprint
 ## Sprint 1
 Aqui foi aprendido GIT, GitHub e LINUX.
-Diretório onde contém o resumo e os exercícios: [Sprint-1](sprint_1)
+Diretório onde contém o resumo e os exercícios: [Sprint-1](sprint_1) 
+<br>
 Repositório exclusivo onde contém anotações sobre o curso de Git e GitHub: [repoGit](https://github.com/CarolineVitoria/Git_Github/tree/main)
