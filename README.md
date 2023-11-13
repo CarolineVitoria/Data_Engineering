@@ -44,3 +44,7 @@ Diretório onde contém o resumo e os exercícios: [Sprint-1](sprint_1)
 Repositório exclusivo onde contém anotações sobre o curso de Git e GitHub: [repoGit](https://github.com/CarolineVitoria/Git_Github/tree/main)
 <br>
 Repositório exclusivo onde contém anotações sobre o curso de Linux: [repLinux](https://github.com/CarolineVitoria/Linux)
+
+# Sprint 2
+Nessa Sprint foi aprendido SQL para análise de dados e conceitos fundamentais de Big Data. <br>
+Diretório onde contém o resumo e os exercícios: [Sprint-2](sprint_2)
