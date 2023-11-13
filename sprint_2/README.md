@@ -9,6 +9,6 @@ Além disso foi ensinado sobre diversas profissões e suas respectívas funçõe
 
 <hr>
 
-* [Exercícios I de SQL](exercicos/exercicios_I)
-* [Exercícios II de SQL](exercicos/exercicios_II)
-* [Certificados](sprint_2/certificados)
+* [Exercícios I de SQL](https://github.com/CarolineVitoria/Data_Engineering/tree/main/sprint_2/exercicios/exercicios_I)
+* [Exercícios II de SQL](ehttps://github.com/CarolineVitoria/Data_Engineering/tree/main/sprint_2/exercicios/exercicios_II)
+* [Certificados](https://github.com/CarolineVitoria/Data_Engineering/tree/main/sprint_2/certificados)
