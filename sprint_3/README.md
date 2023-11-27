@@ -5,7 +5,7 @@ Python é uma linguagem dinamicamente tipada, ou seja não é necessário declar
 Python também conta com uma vasta gama de bibliotecas que facilitam muito a vida dos programadores, muitas delas voltada a área de análise de dados e também machine learning.
 
 <br>
-Além do ensiono da linguagem e suas particularidades também foi falado sobre POO, que é um paradigma de programação, ou seja uma forma de se pensar programação. Onde o foco são nos dados e não nas funções como ocorre no paradigma procedural/funcional. 
+Além do ensino da linguagem e suas particularidades, também foi falado sobre POO, que é um paradigma de programação, ou seja uma forma de se pensar programação. Onde o foco são nos dados e não nas funções como ocorre no paradigma procedural/funcional. 
 
 <hr>
 
