@@ -1,0 +1,28 @@
+1 - o filme The Avengers aparece 6 vez(es) no dataset
+2 - o filme Catching Fire aparece 4 vez(es) no dataset
+3 - o filme Harry Potter / Deathly Hallows (P2) aparece 4 vez(es) no dataset
+4 - o filme Star Wars: The Force Awakens aparece 3 vez(es) no dataset
+5 - o filme The Dark Knight aparece 3 vez(es) no dataset
+6 - o filme Meet the Fockers aparece 3 vez(es) no dataset
+7 - o filme Shrek 2 aparece 2 vez(es) no dataset
+8 - o filme Dead Man's Chest aparece 2 vez(es) no dataset
+9 - o filme Night at the Museum aparece 2 vez(es) no dataset
+10 - o filme Return of the King aparece 2 vez(es) no dataset
+11 - o filme Avengers: Age of Ultron aparece 2 vez(es) no dataset
+12 - o filme Toy Story 3 aparece 1 vez(es) no dataset
+13 - o filme War of the Worlds aparece 1 vez(es) no dataset
+14 - o filme Sixth Sense aparece 1 vez(es) no dataset
+15 - o filme Independence Day aparece 1 vez(es) no dataset
+16 - o filme The Martian aparece 1 vez(es) no dataset
+17 - o filme The Phantom Menace aparece 1 vez(es) no dataset
+18 - o filme Ocean's Eleven aparece 1 vez(es) no dataset
+19 - o filme Men in Black aparece 1 vez(es) no dataset
+20 - o filme World War Z aparece 1 vez(es) no dataset
+21 - o filme Hotel Transylvania 2 aparece 1 vez(es) no dataset
+22 - o filme The LEGO Movie aparece 1 vez(es) no dataset
+23 - o filme American Sniper aparece 1 vez(es) no dataset
+24 - o filme Transformers 4 aparece 1 vez(es) no dataset
+25 - o filme The Grinch aparece 1 vez(es) no dataset
+26 - o filme Titanic aparece 1 vez(es) no dataset
+27 - o filme Minions aparece 1 vez(es) no dataset
+28 - o filme The Dark Knight Rises aparece 1 vez(es) no dataset
