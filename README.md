@@ -48,3 +48,7 @@ Repositório exclusivo onde contém anotações sobre o curso de Linux: [repLinu
 ## Sprint 2
 Nessa Sprint foi aprendido SQL para análise de dados e conceitos fundamentais de Big Data. <br>
 Diretório onde contém o resumo e os exercícios: [Sprint-2](sprint_2)
+
+## Sprint 3
+Nessa Sprint o foco foi em Python, linguagem de programação muito utilizada na área de dados. <br>
+Diretório onde contém o resumo e os exercícios: [Sprint-3](sprint_3)
