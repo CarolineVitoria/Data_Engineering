@@ -52,3 +52,7 @@ Diretório onde contém o resumo e os exercícios: [Sprint-2](sprint_2)
 ## Sprint 3
 Nessa Sprint o foco foi em Python, linguagem de programação muito utilizada na área de dados. <br>
 Diretório onde contém o resumo e os exercícios: [Sprint-3](sprint_3)
+
+## Sprint 4
+Nessa Sprint o foco foi no estudo de programação funcional em Python, Docker e kubernetes, além de estatística descritiva com Python. <br>
+Diretório onde contém o resumo e os exercícios: [Sprint-4](sprint_4)
