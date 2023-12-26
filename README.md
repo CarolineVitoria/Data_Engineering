@@ -56,3 +56,7 @@ Diretório onde contém o resumo e os exercícios: [Sprint-3](sprint_3)
 ## Sprint 4
 Nessa Sprint o foco foi no estudo de programação funcional em Python, Docker e kubernetes, além de estatística descritiva com Python. <br>
 Diretório onde contém o resumo e os exercícios: [Sprint-4](sprint_4)
+
+## Sprint 5
+Nessa Sprint o foco do estudo foi na AWS.<br>
+Diretório onde contém o resumo e os exercícios: [Sprint-5](sprint_5)
