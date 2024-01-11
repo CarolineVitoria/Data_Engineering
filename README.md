@@ -60,3 +60,7 @@ Diretório onde contém o resumo e os exercícios: [Sprint-4](sprint_4)
 ## Sprint 5
 Nessa Sprint o foco do estudo foi na AWS.<br>
 Diretório onde contém o resumo e os exercícios: [Sprint-5](sprint_5)
+
+## Sprint 6
+Nessa Sprint o foco do estudo foi em análise de dados utilizando os serviços da AWS<br>
+Diretório onde contém o resumo e os exercícios: [Sprint-6](sprint_6)
